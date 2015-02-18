@@ -12,4 +12,10 @@
 public class JuegoApplet {
     
     
+    private int iVidas=0;
+    
+    
+    
+    
+    
 }
